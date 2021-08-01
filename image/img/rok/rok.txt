@@ -1,0 +1,24 @@
+rok1
+Merk : Zoey
+Harga : 75000
+Stok : 4
+
+rok2
+Merk : Maxi
+Harga : 65000
+Stok : 3
+
+rok3
+Merk : Daisy
+Harga : 80000
+Stok : 8
+
+rok4
+Merk : Zenina
+Harga : 85000
+Stok : 3
+
+rok5
+Merk : Ayla
+Harga : 70000
+Stok : 2

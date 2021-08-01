@@ -1,0 +1,24 @@
+gamis1
+Merk : Fizia
+Harga : 175000
+Stok : 3
+
+gamis2
+Merk : Captain
+Harga : 175000
+Stok : 3
+
+gamis3
+Merk : Arsyi
+Harga : 195000
+Stok : 2
+
+gamis4
+Merk : Monna
+Harga : 155000
+Stok : 3
+
+gamis5
+Merk : Laiza
+Harga : 170000
+Stok : 4

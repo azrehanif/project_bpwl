@@ -1,0 +1,24 @@
+Kemeja1
+Merk : Delle
+Harga : 85000
+Stok : 5
+
+Kemeja2
+Merk : Zura
+Harga : 95000
+Stok : 3
+
+Kemeja3
+Merk : Moana
+Harga : 70000
+Stok : 6
+
+Kemeja4
+Merk : Ameera
+Harga : 80000
+Stok : 4
+
+Kemeja5
+Merk : Celyn
+Harga : 90000
+Stok : 4

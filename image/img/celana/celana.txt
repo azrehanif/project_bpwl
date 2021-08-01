@@ -1,0 +1,24 @@
+celana1
+Merk : include
+Harga : 100000
+Stok : 3
+
+celana2
+Merk : Deyan
+Harga : 90000
+Stok : 2
+
+celana3
+Merk : Willow
+Harga : 105000
+Stok : 4
+
+celana4
+Merk : Cello
+Harga : 90000
+Stok : 2
+
+celana5
+Merk : Mikha
+Harga : 85000
+Stok : 3

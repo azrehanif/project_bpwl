@@ -1,0 +1,24 @@
+Hijab1
+Merk : Diamond
+Harga : 30000
+Stok : 8
+
+Hijab2
+Merk : Mahkota
+Harga : 50000
+Stok : 6
+
+Hijab3
+Merk : Rinz
+Harga : 35000
+Stok : 5
+
+Hijab4
+Merk : Zakiah
+Harga : 40000
+Stok : 5
+
+Hijab5
+Merk : Azara
+Harga : 50000
+Stok : 7

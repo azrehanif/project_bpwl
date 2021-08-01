@@ -1,0 +1,24 @@
+blouse1
+Merk : Crincle
+Harga : 65000
+Stok : 3
+
+blouse2
+Merk : Zalfa
+Harga : 70000
+Stok : 2
+
+blouse3
+Merk : Kika
+Harga : 80000
+Stok : 4
+
+blouse4
+Merk : Rhea
+Harga : 75000
+Stok : 3
+
+blouse5
+Merk : Riesa
+Harga : 90000
+Stok : 3
