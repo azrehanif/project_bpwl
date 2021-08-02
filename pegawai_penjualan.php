@@ -22,7 +22,7 @@ $db = new database();
 				<div class="wrap-table100">
 					<div class="table">
 
-<a href="input_penjualan.php">Input Data Penjualan </a><a href="indexpemilik.html"><button>    | Logout</button></a>
+<a href="input_penjualan.php">Input Data Penjualan </a><a href="indexpegawai.html"><button>    | Logout</button></a>
 <table border="1">
     <tr>
         <th>No</th>
